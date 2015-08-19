@@ -19,7 +19,7 @@ today = datetime.datetime.now() - timedelta(hours=7)
 states = ['STARTING', 'BOOTSTRAPPING', 'WAITING', 'RUNNING', 'TERMINATED', 'TERMINATED_WITH_ERRORS', 'TERMINATING']
 
 def check_emr():
-    global hour_threshold
+    
     hour_threshold = 4
     states = ['RUNNING', 'WAITING']
     global data
