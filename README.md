@@ -6,7 +6,7 @@ Check and reports status on all the EMR clusters running. hour_threshold paramet
 
 
 
-opyright (c) 2015  Vishwanath Subramanian
+copyright (c) 2015  Vishwanath Subramanian
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
